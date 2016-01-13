@@ -35,6 +35,10 @@ Don't forget to create tags! Github creates nice binary packages for you when yo
 Instructions for installation, launching, debug mode/debbugging, and testing should be in the readme or another markdown file within the project.
 This way, if someone needs help running the app while offline, he can do so.
 
+## Example
+
+This is an example for a [README](TEMPLATE.md) file
+
 ## Improvements
 
 I'm looking for interested people to further improve this template/ readme guidelines project.
