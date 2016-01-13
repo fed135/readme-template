@@ -1,5 +1,8 @@
 # About the readme file
 
+This projet's purpose is to help developpers make better Readme files for their hosted/collaborative projects.
+It is a work in progress, I would really appreciate input on form, syntax and grammar. Thanks! - Fred
+
 ## Philosophy
 
 The readme page is an overview or your library, script or app's content and a portal to all the related tools and information.
